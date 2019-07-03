@@ -25,3 +25,30 @@
 [submodule "wmc"]
 	path = wmc
 	url = https://github.com/guadaltel/wmc.git
+[submodule "buffer"]
+	path = buffer
+	url = https://github.com/guadaltel/buffer.git
+[submodule "freedraw"]
+	path = freedraw
+	url = https://github.com/guadaltel/freedraw.git
+[submodule "fullviewmap"]
+	path = fullviewmap
+	url = https://github.com/guadaltel/fullviewmap.git
+[submodule "mapeffects"]
+	path = mapeffects
+	url = https://github.com/guadaltel/mapeffects.git
+[submodule "showcoordinates"]
+	path = showcoordinates
+	url = https://github.com/guadaltel/showcoordinates.git
+[submodule "spatialcalculator"]
+	path = spatialcalculator
+	url = https://github.com/guadaltel/spatialcalculator.git
+[submodule "srsselector"]
+	path = srsselector
+	url = https://github.com/guadaltel/srsselector.git
+[submodule "windrose"]
+	path = windrose
+	url = https://github.com/guadaltel/windrose.git
+[submodule "xylocator"]
+	path = xylocator
+	url = https://github.com/guadaltel/xylocator.git

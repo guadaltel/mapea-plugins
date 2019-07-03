@@ -9,3 +9,13 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * **locallayers**: Visualización de ficheros de información espacial locales.
 * **managelayers**: TOC avanzado.
 * **style-manager**: edición visual de simbología para capas vectoriales.
+* **buffer**: Dibuja un buffer sobre una linea, poligono o punto que se debuje sobre el mapa.
+* **freedraw**: Te permite dibujar diferentes geometrias en el mapa con diferentes colores.
+* **fullviewmap**: Te permite poner el mapa en pantalla completa.
+* **mapeffects**: Te permite realizar efecto de zoom y transparencia a la capa.
+* **showcoordinates**: Te permite visualizar la coordenadas del punto seleccionado en el mapa.
+* **spatialcalculator**: Cambia una coordenadas entre sistemas de referencia (también acepta coordenadas en lat lon).
+* **srsselector**: Te permite seleccionar la proyeccion del mapa.
+* **windrose**: Se visualiza la rosa de los vientos en el mapa.
+* **xylocator**: Te permite localizar unas coordenadas en el mapa.
+
