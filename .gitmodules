@@ -1,6 +1,6 @@
 [submodule "addlayers"]
 	path = addlayers
-	url = https://github.com/guadaltel/addlayers
+	url = https://github.com/guadaltel/addlayers.git
 [submodule "addservices"]
 	path = addservices
 	url = https://github.com/guadaltel/addservices.git
@@ -33,16 +33,16 @@
 	url = https://github.com/guadaltel/managelayers.git
 [submodule "mapeahistory"]
 	path = mapeahistory
-	url = https://github.com/guadaltel/
+	url = https://github.com/guadaltel/mapeahistory.git
 [submodule "mapeffects"]
 	path = mapeffects
 	url = https://github.com/guadaltel/mapeffects.git
 [submodule "maxextzoom"]
 	path = maxextzoom
-	url = https://github.com/guadaltel/maxextzoom
+	url = https://github.com/guadaltel/maxextzoom.git
 [submodule "referencelocatorcatastro"]
 	path = referencelocatorcatastro
-	url = https://github.com/guadaltel/referencelocatorcatastro
+	url = https://github.com/guadaltel/referencelocatorcatastro.git
 [submodule "showcoordinates"]
 	path = showcoordinates
 	url = https://github.com/guadaltel/showcoordinates.git
