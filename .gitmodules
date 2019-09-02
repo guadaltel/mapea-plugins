@@ -43,3 +43,12 @@
 [submodule "xylocator"]
 	path = xylocator
 	url = https://github.com/guadaltel/xylocator.git
+[submodule "filteredsearch"]
+	path = filteredsearch
+	url = https://github.com/guadaltel/filteredsearch.git
+[submodule "maxextzoom"]
+	path = maxextzoom
+	url = https://github.com/guadaltel/maxextzoom.git
+[submodule "viewhistory"]
+	path = viewhistory
+	url = https://github.com/guadaltel/viewhistory.git
