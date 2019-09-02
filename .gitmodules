@@ -10,6 +10,9 @@
 [submodule "catalogsearch"]
 	path = catalogsearch
 	url = https://github.com/guadaltel/catalogsearch.git
+[submodule "filteredsearch"]
+	path = filteredsearch
+	url = https://github.com/guadaltel/filteredsearch.git
 [submodule "freedraw"]
 	path = freedraw
 	url = https://github.com/guadaltel/freedraw.git
@@ -43,6 +46,9 @@
 [submodule "style-manager"]
 	path = style-manager
 	url = https://github.com/guadaltel/style-manager.git
+[submodule "viewhistory"]
+	path = viewhistory
+	url = https://github.com/guadaltel/viewhistory.git
 [submodule "windrose"]
 	path = windrose
 	url = https://github.com/guadaltel/windrose.git
