@@ -10,9 +10,6 @@
 [submodule "catalogsearch"]
 	path = catalogsearch
 	url = https://github.com/guadaltel/catalogsearch.git
-[submodule "filteredsearch"]
-	path = filteredsearch
-	url = https://github.com/guadaltel/filteredsearch.git
 [submodule "freedraw"]
 	path = freedraw
 	url = https://github.com/guadaltel/freedraw.git
@@ -22,15 +19,9 @@
 [submodule "managelayers"]
 	path = managelayers
 	url = https://github.com/guadaltel/managelayers.git
-[submodule "mapeahistory"]
-	path = mapeahistory
-	url = https://github.com/guadaltel/mapeahistory.git
 [submodule "mapeffects"]
 	path = mapeffects
 	url = https://github.com/guadaltel/mapeffects.git
-[submodule "maxextzoom"]
-	path = maxextzoom
-	url = https://github.com/guadaltel/maxextzoom.git
 [submodule "referencelocatorcatastro"]
 	path = referencelocatorcatastro
 	url = https://github.com/guadaltel/referencelocatorcatastro.git
@@ -43,12 +34,6 @@
 [submodule "srsselector"]
 	path = srsselector
 	url = https://github.com/guadaltel/srsselector.git
-[submodule "style-manager"]
-	path = style-manager
-	url = https://github.com/guadaltel/style-manager.git
-[submodule "viewhistory"]
-	path = viewhistory
-	url = https://github.com/guadaltel/viewhistory.git
 [submodule "windrose"]
 	path = windrose
 	url = https://github.com/guadaltel/windrose.git
