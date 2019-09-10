@@ -7,9 +7,6 @@
 [submodule "buffer"]
 	path = buffer
 	url = https://github.com/guadaltel/buffer.git
-[submodule "catalogsearch"]
-	path = catalogsearch
-	url = https://github.com/guadaltel/catalogsearch.git
 [submodule "freedraw"]
 	path = freedraw
 	url = https://github.com/guadaltel/freedraw.git
@@ -52,3 +49,6 @@
 [submodule "viewhistory"]
 	path = viewhistory
 	url = https://github.com/guadaltel/viewhistory.git
+[submodule "catalogsearch"]
+	path = catalogsearch
+	url = https://github.com/guadaltel/catalogsearch
