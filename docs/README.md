@@ -9,7 +9,8 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * **freedraw**: Te permite dibujar diferentes geometrias en el mapa con diferentes colores.
 * **fullviewmap**: Te permite poner el mapa en pantalla completa.
 * **managelayers**: TOC avanzado.
-* **mapeffects**: Te permite realizar efecto de zoom y transparencia a la capa.
+* **magnify**: Te permite realizar efecto de zoom lupa
+* **transparency**: Te permite realizar efecto de transparencia
 * **maxextzoom**: Zoom a la extensin del mapa.
 * **referencelocatorcatastro**: Localizador de fincas por referencia catastral o dirección.
 * **sharemap**: Permite compartir la visión actual del mapa.
