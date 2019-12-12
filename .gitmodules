@@ -52,3 +52,9 @@
 [submodule "catalogsearch"]
 	path = catalogsearch
 	url = https://github.com/guadaltel/catalogsearch
+[submodule "transparency"]
+	path = transparency
+	url = https://github.com/guadaltel/transparency.git
+[submodule "magnify"]
+	path = magnify
+	url = https://github.com/guadaltel/magnify.git
