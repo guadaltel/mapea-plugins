@@ -58,3 +58,6 @@
 [submodule "magnify"]
 	path = magnify
 	url = https://github.com/guadaltel/magnify.git
+[submodule "sharemap"]
+	path = sharemap
+	url = https://github.com/guadaltel/sharemap.git
