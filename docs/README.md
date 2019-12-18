@@ -8,7 +8,6 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 * **filteredsearch**: Realiza filtros alfanuméricos sobre la información de las diferentes capas.
 * **freedraw**: Te permite dibujar diferentes geometrias en el mapa con diferentes colores.
 * **fullviewmap**: Te permite poner el mapa en pantalla completa.
-* **managelayers**: TOC avanzado.
 * **magnify**: Te permite realizar efecto de zoom lupa
 * **transparency**: Te permite realizar efecto de transparencia
 * **maxextzoom**: Zoom a la extensin del mapa.
