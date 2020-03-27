@@ -3,6 +3,7 @@ La finalidad de este repositorio es únicamente la de recopilar en un mismo punt
 
 * **addlayers**: Añadir capas locales o por servicio.
 * **addservices**: Añadir capas WMS al vuelo.
+* **edition**: PLugin de edición de capas vectoriales.
 * **buffer**: Dibuja un buffer sobre una linea, poligono o punto que se debuje sobre el mapa.
 * **catalogsearch**: Búsquedas en servicio de metadatos.
 * **filteredsearch**: Realiza filtros alfanuméricos sobre la información de las diferentes capas.
