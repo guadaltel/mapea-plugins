@@ -64,3 +64,6 @@
 [submodule "perfiltopografico"]
 	path = perfiltopografico
 	url = https://github.com/guadaltel/perfiltopografico.git
+[submodule "edition"]
+	path = edition
+	url = https://github.com/guadaltel/edition.git
