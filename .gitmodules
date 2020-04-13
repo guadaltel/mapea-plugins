@@ -67,3 +67,6 @@
 [submodule "edition"]
 	path = edition
 	url = https://github.com/guadaltel/edition.git
+[submodule "zoomextent"]
+	path = zoomextent
+	url = https://github.com/guadaltel/zoomextent.git
