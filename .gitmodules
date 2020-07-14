@@ -70,3 +70,12 @@
 [submodule "zoomextent"]
 	path = zoomextent
 	url = https://github.com/guadaltel/zoomextent.git
+[submodule "lyrcompare"]
+	path = lyrcompare
+	url = https://github.com/guadaltel/lyrcompare.git
+[submodule "mirrorpanel"]
+	path = mirrorpanel
+	url = https://github.com/guadaltel/mirrorpanel.git
+[submodule "timeline"]
+	path = timeline
+	url = https://github.com/guadaltel/timeline.git
