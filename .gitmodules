@@ -79,3 +79,6 @@
 [submodule "timeline"]
 	path = timeline
 	url = https://github.com/guadaltel/timeline.git
+[submodule "topographicprofile"]
+	path = topographicprofile
+	url = https://github.com/guadaltel/topographicprofile.git
