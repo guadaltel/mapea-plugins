@@ -82,3 +82,6 @@
 [submodule "topographicprofile"]
 	path = topographicprofile
 	url = https://github.com/guadaltel/topographicprofile.git
+[submodule "style-manager"]
+	path = style-manager
+	url = https://github.com/guadaltel/style-manager.git
